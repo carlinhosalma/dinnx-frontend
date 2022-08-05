@@ -1,0 +1,16 @@
+{
+    "colors": {
+        "primary": "#135317",
+        "light": "#ffffff",
+        "info": "#426782",
+        "info50": "#94badd",
+        "dark": "#32353D",
+        "success": "#389b45",
+        "black": "#122212",
+        "danger": "#f52f2f",
+        "muted": "#C4C4C4",
+        "muted50": "#F4F4F4",
+        "preto": "#000000",
+        "warning":"#fff9a4"
+    }
+}
